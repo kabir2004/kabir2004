@@ -1,10 +1,10 @@
 # Hey there 👋
 
-## Im Kabir Saamir
+## I'm Kabir Saamir
 
-Software developer and BSc student @ Wilfrid Laurier University.
+Software developer and BSc student at Wilfrid Laurier University.
 
-I work as a Software Developer & Analyst @ Sterling Mutuals, building and maintaining OneBoss - a back-office platform serving 300+ financial advisors across Canada. My work spans full-stack development, systems design, and working within a regulated financial environment.
+I work as a Software Developer & Analyst at Sterling Mutuals, building and maintaining OneBoss — a back-office platform serving 300+ financial advisors across Canada. My work spans full-stack development, systems design, and working within a regulated financial environment.
 
 Currently building ChatterDash, an autonomous AI drive-thru ordering system, and Spore, an AI-native workspace application.
 
@@ -25,17 +25,27 @@ Currently building ChatterDash, an autonomous AI drive-thru ordering system, and
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
+**AI & ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
 **Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-**Databases**
+**Databases & Backend**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
 ---
 
