@@ -1,6 +1,6 @@
 # Hey there 👋
 
-## Kabir Saamir
+## Im Kabir Saamir
 
 Software developer and BSc student at Wilfrid Laurier University.
 
