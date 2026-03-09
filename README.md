@@ -2,9 +2,9 @@
 
 ## I'm Kabir Saamir
 
-Software developer and BSc student at Wilfrid Laurier University.
+Software developer and BSc student @ Wilfrid Laurier University.
 
-I work as a Software Developer & Analyst at Sterling Mutuals, building and maintaining OneBoss — a back-office platform serving 300+ financial advisors across Canada. My work spans full-stack development, systems design, and working within a regulated financial environment.
+I work as a Software Developer & Analyst @ Sterling Mutuals, building and maintaining OneBoss — a back-office platform serving 300+ financial advisors across Canada. My work spans full-stack development, systems design, and working within a regulated financial environment.
 
 Currently building ChatterDash, an autonomous AI drive-thru ordering system, and Spore, an AI-native workspace application.
 
