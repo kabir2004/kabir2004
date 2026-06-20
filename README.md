@@ -2,7 +2,7 @@
 
 ## I'm Kabir Saamir
 
-Automation Software Developer & Student @ Wilfrid Laurier University.
+Software Developer & Student @ Wilfrid Laurier University.
 
 I currently work as an **Automation Software Developer @ Itipack Systems**, focused on building clean, reliable software for technical teams, automation workflows, and engineering-driven environments.
 
