@@ -6,7 +6,7 @@ Software developer and student @ Wilfrid Laurier University.
 
 I currently work as an **Automation Software Developer @ Itipack Systems**, where I focus on building clean, reliable software for technical teams, automation workflows, and engineering-driven environments.
 
-I enjoy working across full-stack development, automation software, AI tooling, backend systems, and clean user interfaces. I like building products that feel simple, fast, and useful — even when the systems behind them are complex.
+I enjoy working across full-stack development, automation software, AI tooling, backend systems, and clean user interfaces. I like building products that feel simple, fast, and useful - even when the systems behind them are complex.
 
 Currently exploring AI-native software, developer tools, automation platforms, and modern full-stack applications.
 
